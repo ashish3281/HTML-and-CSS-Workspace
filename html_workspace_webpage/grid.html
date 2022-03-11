@@ -1,0 +1,44 @@
+<head>
+   <style>
+       .container{
+           display: grid;
+           grid-gap: 20px;
+           grid-template-areas: 'a b c d'
+                                'a e f f'
+                                'a . . .';
+        grid-template-columns: 10% 40% 1fr;
+        grid-template-rows: 300px;
+       }
+       .container div{
+           background: tomato;
+       }
+       .item1{
+           grid-area: a;
+       }
+       .item2{
+           grid-area: b;
+       }
+       .item3{
+           grid-area: c;
+       }
+       .item4{
+           grid-area: d;
+       }
+       .item5{
+           grid-area: e;
+       }
+       .item6{
+           grid-area: f;
+       }
+   </style>
+</head>
+<body>
+    <div class="container">
+    <div class="item1"> item1</div>
+    <div class="item2">item2</div>
+    <div class="item3">item3</div>
+    <div class="item4">item4</div>
+    <div class="item5">item5</div>
+    <div class="item6">item6</div>
+</div>
+</body>

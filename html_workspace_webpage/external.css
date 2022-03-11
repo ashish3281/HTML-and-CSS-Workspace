@@ -1,0 +1,60 @@
+body {
+    background-color: blue;
+}
+lable{
+    color:chartreuse ;
+}
+/* !important tag is used to fix the color */
+#Password{
+     color:rgb(235, 146, 31) !important;
+     font-size: 20px;
+}
+/* #Passward is that passward used in id */
+#checkbox{
+    color:darkgray !important;
+}
+.redcolor{
+    color: red !important;
+    background-color: sienna;
+    font-weight: 900;
+    font-style: italic;
+}
+/* for class we use dot .for multiple element we use same class */
+.fontType{
+    font-size: 20px;
+}
+#username{
+    font-family: cursive;
+    font-size: larger;
+    font-weight: 800;
+    background-color: snow;
+    color:tomato !important;
+    font-style: normal;
+    text-decoration-line: line-through;
+    text-decoration-color: #e04040;
+    text-decoration-style: dashed;
+    margin: '40px' '30px' '20px' '30px';
+    /* margin order is top,right,bottom and left */
+}
+.ptab{
+    border-style: solid;
+    border-radius: 10px;
+    border-width: thick;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.name{
+    border:black;
+    height:300px;
+    background-image:url("https://www.cis.upenn.edu/~matuszek/cit594-2012/Pages/backtracking_files/treesearch.gif");
+    
+    background-color: aqua;
+    background-image: linear-gradient(
+180deg
+, black, yellow);
+.image1{
+    
+}
+}
