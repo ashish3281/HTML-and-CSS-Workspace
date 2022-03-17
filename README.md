@@ -67,7 +67,7 @@ Below is a visualization of an HTML page structure:
  <br>
   <br>
   <h1>CSS</h1>
-  ![download](https://user-images.githubusercontent.com/92047366/158849390-6881fc44-178a-41f1-9af2-7e879c50b654.png)
+  
 CSS is the language we use to style a Web page.
 
   <b>What is CSS?</b>
@@ -82,6 +82,7 @@ Here we will show one HTML page displayed with four different stylesheets. Click
 
   <b>Why Use CSS?</b>
 CSS is used to define styles for your web pages, including the design, layout and variations in display for different devices and screen sizes.
+![CSS-1600x900](https://user-images.githubusercontent.com/92047366/158850764-9575932d-fc1b-464e-95fb-86db8d4352b7.png)
 
   <b>CSS Example</b>
 body {
