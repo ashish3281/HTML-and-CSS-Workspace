@@ -64,6 +64,59 @@ Below is a visualization of an HTML page structure:
 <p>This is another paragraph.</p>
 </body>
 </html>
- 
+ <br>
+  <br>
+  <h1>CSS</h1>
+  ![download](https://user-images.githubusercontent.com/92047366/158849390-6881fc44-178a-41f1-9af2-7e879c50b654.png)
+CSS is the language we use to style a Web page.
+
+  <b>What is CSS?</b>
+CSS stands for Cascading Style Sheets
+CSS describes how HTML elements are to be displayed on screen, paper, or in other media
+CSS saves a lot of work. It can control the layout of multiple web pages all at once
+External stylesheets are stored in CSS files
+CSS Demo - One HTML Page - Multiple Styles!
+Here we will show one HTML page displayed with four different stylesheets. Click on the "Stylesheet 1", "Stylesheet 2", "Stylesheet 3", "Stylesheet 4" links below to see the different styles:
+
+
+
+  <b>Why Use CSS?</b>
+CSS is used to define styles for your web pages, including the design, layout and variations in display for different devices and screen sizes.
+
+  <b>CSS Example</b>
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+  <b>CSS Solved a Big Problem</b>
+HTML was NEVER intended to contain tags for formatting a web page!
+
+HTML was created to describe the content of a web page, like:
+
+<h1>This is a heading</h1>
+
+<p>This is a paragraph.</p>
+
+When tags like <font>, and color attributes were added to the HTML 3.2 specification, it started a nightmare for web developers. Development of large websites, where fonts and color information were added to every single page, became a long and expensive process.
+
+To solve this problem, the World Wide Web Consortium (W3C) created CSS.
+
+CSS removed the style formatting from the HTML page!
+
+If you don't know what HTML is, we suggest that you read our HTML Tutorial.
+
+CSS Saves a Lot of Work!
+The style definitions are normally saved in external .css files.
+
+With an external stylesheet file, you can change the look of an entire website by changing just one file!
   
 
