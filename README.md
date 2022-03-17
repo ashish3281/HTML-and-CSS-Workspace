@@ -68,9 +68,7 @@ Below is a visualization of an HTML page structure:
   <br>
   <h1>CSS</h1>
   <br>
-  https://rehansaeed.com/images/hero/CSS-1600x900.png
-  ![CSS-1600x900](https://user-images.githubusercontent.com/92047366/158850764-9575932d-fc1b-464e-95fb-86db8d4352b7.png)
-![CSS-1600x900](https://user-images.githubusercontent.com/92047366/158851151-9eea1d3d-7abf-48f3-9174-29157223934a.png)
+   <img src="https://rehansaeed.com/images/hero/CSS-1600x900.png">
 
 CSS is the language we use to style a Web page.
 
